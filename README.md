@@ -1,16 +1,3 @@
-<h1 align="center">
-    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
-</h1>
-
-<blockquote align="center">“Stay hungry, stay foolish - Steve Jobs”</blockquote>
-
-<p align="center">
-  <a href="#bulb-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-install">Install</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#boom-result">Result</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
-
 ## :bulb: About
 
 <p>In this project, a complete stack was developed, where we used:</p>
